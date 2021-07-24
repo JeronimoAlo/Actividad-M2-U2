@@ -1,0 +1,36 @@
+.contenedor {
+    border: 2px solid black;
+    margin: 200px auto;
+    width: 300px;
+    height: 300px;
+    line-height: 70px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+.contenedor-1 {
+    background-color: red;
+    border: solid red;
+    width: 100px;
+    height: 100px;
+}
+
+.contenedor-2 {
+    background-color: blue;
+    border: solid blue;
+    width: 100px;
+    height: 100px;
+}
+
+.contenedor-3 {
+    background-color: green;
+    border: solid green;
+    width: 100px;
+    height: 100px;
+}
+
+.contenido {
+    color: white;
+    text-align: center;
+}
